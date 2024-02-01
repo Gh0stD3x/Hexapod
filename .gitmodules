@@ -1,0 +1,3 @@
+[submodule "Code/resources/Aecerts_Hexapod"]
+	path = Code/resources/Aecerts_Hexapod
+	url = https://github.com/Ryan-Mirch/Aecerts_Hexapod_V1

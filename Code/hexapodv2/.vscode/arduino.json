@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "programmer": "esptool",
+    "port": "COM5",
+    "sketch": "..\\hexapodv3\\hexapodv3.ino"
+}
